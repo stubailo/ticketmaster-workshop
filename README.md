@@ -1,13 +1,15 @@
 # Ticketmaster workshop
 
-Get an API key here: http://developer.ticketmaster.com/
-Open Launchpad and log in! https://launchpad.graphql.com/new
+- Get an API key here: http://developer.ticketmaster.com/
+- Open Launchpad and log in! https://launchpad.graphql.com/new
 
 ## My favorite artists
 
-* Kansas: K8vZ9171C-f
-* Lil Yachty: K8vZ9174v57
-* Jason Mraz: K8vZ9171CVV
+And their Ticketmaster API attraction IDs:
+
+* Kansas: `K8vZ9171C-f`
+* Lil Yachty: `K8vZ9174v57`
+* Jason Mraz: `K8vZ9171CVV`
 
 ## My desired query
 
