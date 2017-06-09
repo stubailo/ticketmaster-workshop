@@ -1,5 +1,7 @@
 # Ticketmaster workshop
 
+Before starting:
+
 - Get an API key here: http://developer.ticketmaster.com/
 - Open Launchpad and log in! https://launchpad.graphql.com/new
 
