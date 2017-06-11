@@ -4,7 +4,7 @@ I recently flew down to LA and did a GraphQL workshop at Ticketmaster where ever
 
 I hope to re-record a version of this more optimized for internet consumption soon, but who knows how long it will be before I have time, so I thought I'd put this up first. Go ahead and watch it!
 
-[![Video screenshot](http://i.imgur.com/undefined.png)](https://www.youtube.com/watch?v=j0Ot84L5n04)
+[![Video screenshot](http://i.imgur.com/gbi8QrS.png)](https://www.youtube.com/watch?v=j0Ot84L5n04)
 
 Here are some things you'll need to do right away:
 
