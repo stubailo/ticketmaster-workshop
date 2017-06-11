@@ -1,6 +1,6 @@
 # Ticketmaster workshop
 
-I recently flew down to LA and did a GraphQL workshop at Ticketmaster where everyone built a JavaScript GraphQL API together using [Launchpad](https://launchpad.graphql.com/), a tool that lets you experiment with GraphQL servers in your browser. Thankfully, the workshop was recorded, so you can try it too! The video references a Quip document I prepared, but all of that content is reproduced here in this README.
+I recently flew down to LA and did a GraphQL workshop at Ticketmaster where everyone built a JavaScript GraphQL API. Everyone followed along using [Launchpad](https://launchpad.graphql.com/), a tool that lets you experiment with GraphQL servers in your browser. Thankfully, the workshop was recorded, so you can try it too! The video references a Quip document I prepared, but all of that content is reproduced here in this README.
 
 I hope to re-record a version of this more optimized for internet consumption soon, but who knows how long it will be before I have time, so I thought I'd put this up first. Go ahead and watch it!
 
