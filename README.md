@@ -1,8 +1,16 @@
 # Ticketmaster workshop
 
-I recently flew down to LA and did a GraphQL workshop at Ticketmaster where everyone built a JavaScript GraphQL API. Everyone followed along using [Launchpad](https://launchpad.graphql.com/), a tool that lets you experiment with GraphQL servers in your browser. Thankfully, the workshop was recorded, so you can try it too! The video references a Quip document I prepared, but all of that content is reproduced here in this README.
+I recently flew down to LA and did a GraphQL workshop at Ticketmaster where everyone built a JavaScript GraphQL API. Everyone followed along using [Launchpad](https://launchpad.graphql.com/), a tool that lets you experiment with GraphQL servers in your browser. Thankfully, the workshop was recorded, so you can try it too!
 
-I hope to re-record a version of this more optimized for internet consumption soon, but who knows how long it will be before I have time, so I thought I'd put this up first. Go ahead and watch it!
+Here's what you'll learn:
+
+1. Mocking a GraphQL schema
+2. Displaying data from an array
+3. Fetching from a REST API
+4. Fetching from multiple REST endpoints in one GraphQL query
+5. Building a simple UI with React and Apollo Client
+
+The video references a Quip document I prepared, but all of that content is reproduced here in this README. I hope to re-record a version of this more optimized for internet consumption soon, but who knows how long it will be before I have time, so I thought I'd put this up first. Go ahead and watch it!
 
 [![Video screenshot](http://i.imgur.com/gbi8QrS.png)](https://www.youtube.com/watch?v=j0Ot84L5n04)
 
